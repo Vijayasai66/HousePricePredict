@@ -4,15 +4,14 @@ This is a simple machine learning project I built to **predict housing prices in
 
 ![App Screenshot](Screenshot.png)
 ## Features 
-- Interactive frontend using HTML, CSS, JS (jQuery)
-- Flask backend with a trained regression model
-- Real-time predictions using user input
-- Location dropdown dynamically loaded from backend
-## Tech Stack
-- Frontend: HTML5, CSS3, JavaScript, jQuery
+- Predicts house prices in Bangalore
+- Dynamic UI: user selects location, BHK, bathrooms, and area
+- Backend API predicts price and returns it instantly
+- Entire stack built from scratch
+## Tech used
+- Frontend: HTML, CSS, JavaScript, jQuery
 - Backend: Python, Flask
-- ML: Scikit-learn, Pandas, NumPy
-- Deployment: (e.g. Render/Heroku or local)
+- ML: Python, Scikit-learn, Pandas, NumPy
 ## How it works
 - Model trained on a cleaned housing dataset.
 - Features used: location (one-hot encoded), total_sqft, BHK, bath.
