@@ -12,3 +12,7 @@ A machine learning web app that predicts house prices in Bangalore based on area
 - Backend: Python, Flask
 - ML: Scikit-learn, Pandas, NumPy
 - Deployment: (e.g. Render/Heroku or local)
+## How it works
+- Model trained on a cleaned housing dataset.
+- Features used: location (one-hot encoded), total_sqft, BHK, bath.
+- Backend serves predictions via `/predict_home_price`.
