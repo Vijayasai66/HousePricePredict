@@ -7,3 +7,8 @@ A machine learning web app that predicts house prices in Bangalore based on area
 - Flask backend with a trained regression model
 - Real-time predictions using user input
 - Location dropdown dynamically loaded from backend
+## Tech Stack
+- Frontend: HTML5, CSS3, JavaScript, jQuery
+- Backend: Python, Flask
+- ML: Scikit-learn, Pandas, NumPy
+- Deployment: (e.g. Render/Heroku or local)
