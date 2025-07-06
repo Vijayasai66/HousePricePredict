@@ -35,3 +35,20 @@ pip install -r requirements.txt
 python server.py
 ### 4. Open the UI
 Just open client/app.html in your browser.
+
+### PROJECT STRUCTURE
+HousePricePredict/
+│
+├── client/
+│   ├── app.html       # Web UI
+│   ├── app.css        # Styling
+│   └── app.js         # JavaScript logic
+│
+├── server.py          # Flask API
+├── util.py            # Model prediction logic
+├── artifacts/         # Saved model & data
+│   ├── bangalore_home_prices_model.pickle
+│   └── columns.json
+├── requirements.txt   # Python dependencies
+├── README.md
+└── .gitignore
