@@ -27,8 +27,7 @@ This is a simple machine learning project I built to **predict housing prices in
 
 - ## Getting Started
 - ### 1. Clone the repo
-- ```bash
-git clone https://github.com/Vijayasai66/HousePricePredict.git
+- bash git clone https://github.com/Vijayasai66/HousePricePredict.git
 cd HousePricePredict
 ### 2. Install dependencies
 pip install -r requirements.txt
