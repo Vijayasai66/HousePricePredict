@@ -54,4 +54,4 @@ HousePricePredict/
 
 
 #### ABOUT ME
-I'm Vijayasai, a fresher passionate about data science. This is my first end-to-end ML web project, and I'm excited to keep learning and building!
+I'm Vijayasai, passionate about data science. This is my end-to-end ML web project, and I'm excited to keep learning and building!
